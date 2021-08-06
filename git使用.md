@@ -13,6 +13,7 @@
 `git commit -m "说明推送（一般如更新1 2等）"`
 
 4 创建一个主分区
+
 `git branch -M main"`
 
 # 远程仓库建立
